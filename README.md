@@ -1,6 +1,8 @@
 # Certificates
 This repository keeps track of all the certificates earned by Harry.
 
+1. [**CFA**](https://github.com/harryli-47/Certificates/blob/main/CFA_Program_Verification_Letter.pdf)
+
 1. [**Deep Learning Specialization by Deeplearning.ai**](https://coursera.org/share/ca36c81ab41f8f40ab83e0ac209a6096)
    - [Neural Networks and Deep Learning](https://coursera.org/share/57588fdb7de11f61209089d55a3cf1aa)
    - [Improving Deep Neural Networks](https://coursera.org/share/57588fdb7de11f61209089d55a3cf1aa)
