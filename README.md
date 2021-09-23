@@ -3,7 +3,17 @@ This repository keeps track of all the certificates earned by Harry.
 
 1. [**Chartered Financial Analyst (CFA®)**](https://github.com/harryli-47/Certificates/blob/main/CFA_Program_Verification_Letter.pdf)
 2. [**Financial Risk Manager (FRM®)**](https://mygarp.force.com/DigitalBadgeFRM?id=0034000001adsRdAAI)
-
+3. [**IBM Data Science**](https://coursera.org/share/5a4fa49b600add4e516287e0816a8514)
+   - [What is Data Science?](https://coursera.org/share/eefa2721e1674c9f95dfa13ee366e78b)
+   - [Tools for Data Science](https://coursera.org/share/e3b8cf2a238d2df243b28640cdf5651d)
+   - [Data Analysis with Python](https://coursera.org/share/335e086335bcaeb2019ec8dbe2773c95)
+   - [Data Visualization with Python](https://coursera.org/share/e063efa794183bc45792bec3df2aeee4)
+   - [Databases and SQL for Data Science with Python](https://coursera.org/share/cecd3ba50b4ff95248054318dabe88ea)
+   - [Data Science Methodology](https://coursera.org/share/f92e2b47e386b9eb039eb7dfd75ece30)
+   - [Python for Data Science, AI & Development](https://coursera.org/share/fcee5369535d23beb31c40ed6771bc3b)
+   - [Machine Learning with Python](https://coursera.org/share/8cd3c967801060a1a6a3a1ff29d02cc2)
+   - [Applied Data Science Capstone](https://coursera.org/share/d929600f1e31432d13a1fd556eed7247)
+      
 3. [**Deep Learning Specialization by Deeplearning.ai**](https://coursera.org/share/ca36c81ab41f8f40ab83e0ac209a6096)
    - [Neural Networks and Deep Learning](https://coursera.org/share/57588fdb7de11f61209089d55a3cf1aa)
    - [Improving Deep Neural Networks](https://coursera.org/share/57588fdb7de11f61209089d55a3cf1aa)
