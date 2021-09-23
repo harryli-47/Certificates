@@ -31,3 +31,11 @@ This repository keeps track of all the certificates earned by Harry.
    - [Getting Started with SAS Programming](https://coursera.org/share/cfee17c4a9f7b1376deb2a42acc56a0c)
    - [Doing More with SAS Programming](https://coursera.org/share/a5b47b62360b24d3e130e02de2fe9abc)
    - [Practical SAS Programming and Certification Review](https://coursera.org/share/932fc809690785b2b4ef80cc1fe8cdd0)
+
+5. [**Bayesian Statistics: From Concept to Data Analysis**](https://coursera.org/share/0b0328096970468a982125c021c9a860)
+6. [**Statistics with SAS**](https://coursera.org/share/1cd739e5502543b2daf2874a29fe113e)
+7. [**Managing Big Data with MySQL**](https://coursera.org/share/840aad3da57f602d8a723249c9905841)
+8. [**Data Visualization and Communication with Tableau**](https://coursera.org/share/304f330c2403031298a32904f5fe212b)
+9. [**Create Your First NoSQL Database with MongoDB and Compass**](https://coursera.org/share/c2da7369febd168567a3f42b4a346644)
+
+
