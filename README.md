@@ -38,4 +38,6 @@ This repository keeps track of all the certificates earned by Harry.
 8. [**Data Visualization and Communication with Tableau**](https://coursera.org/share/304f330c2403031298a32904f5fe212b)
 9. [**Create Your First NoSQL Database with MongoDB and Compass**](https://coursera.org/share/c2da7369febd168567a3f42b4a346644)
 10. [**A/B Testing by Google**](https://www.udacity.com/course/ab-testing--ud257)
+11. [**Taming Big Data with Apache Spark and Python**](https://www.udemy.com/certificate/UC-e3d1d91c-d3d0-4be9-90e6-8e25442322db/)
+ 
 
